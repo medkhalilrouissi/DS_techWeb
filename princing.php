@@ -11,5 +11,6 @@ function CalculerPrixLocation(int $j, float $t): float
     return $prix ;
 }
 /*hello word*/
-
+/*hello word*/
+/*hello word*/
 ?>
